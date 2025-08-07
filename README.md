@@ -1,2 +1,3 @@
 # PYTHON-MYSQL
-BANK MANAGEMENT SYSTEM USING PYTHON &amp; MYSQL 
+BANK MANAGEMENT SYSTEM USING PYTHON and MYSQL 
+This Python code connects to a MySQL database for a simple banking management system. It allows users to input details like their name, ensuring that names don't start with a number. If a user enters invalid input, they’re given up to three chances to correct it. The code uses functions to keep things organized and checks input carefully to avoid errors. It connects to the database using login credentials and handles data through SQL queries. Overall, it’s a user-friendly and secure way to interact with a banking system through the command line, combining Python logic with MySQL database operations.
